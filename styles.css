@@ -1,0 +1,30 @@
+img{
+    max-width:100%;
+    height:auto;
+}
+h1{
+ text-shadow:2px 2px 8px white;   
+}
+
+h2{
+ text-shadow:2px 2px 8px white;  
+ text-decoration:underline;
+ 
+}
+html{
+    background-image: linear-gradient(to right,#66ffcc,#63f7f7);
+}
+.Mechs{
+ text-decoration:underline;  
+}
+.sensei{
+  
+  margin-left: 0%;
+  margin-right: auto;
+  width: 40%;  
+  display:block;
+  border:9px transparent;
+}
+a{
+ color:navy;   
+}
